@@ -1,0 +1,33 @@
+{
+"messageCode": "1023",
+"traceId": "ABC0001",
+"timestamp": "20180523174023",
+"campaignId": "1381",
+"campaignCode": "rUEDmmY3pmSkUB6vGOFNYGRPT2d4rWosD1OAs8lptWo=",
+"fields": [{
+"fieldName": "UDF 1",
+"DMS Unique Id": "123456",
+"display": "fixed"
+}, {
+"fieldName": "UDF 2",
+"Customer Name": "Shiven",
+"display": "display value"
+}, {
+"fieldName": "UDF 3",
+"Customer Mobile": "9811776763",
+"display": "fixed"
+}, {
+"fieldName": "UDF 4",
+"Customer Email": "jitendrakumarsharma1979@gmail.com",
+"display": "fixed"
+}, {
+"fieldName": "UDF 5",
+"Amount": "2",
+"display": "display value"
+}, {
+"fieldName": "UDF 5",
+"Vehicle Identification Number": "TMBBHK5J79G012438",
+"display": "fixed"
+}, {
+],
+"checksum":"PQRSM123K3482AHY08"S
